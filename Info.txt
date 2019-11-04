@@ -1,0 +1,6 @@
+
+https://www.freakyjolly.com/angular-7-8-httpclient-service-tutorial-to-consume-restfull-api-from-server/
+npm install -g json-server
+json-server --watch API/data.json     (http://localhost:3000/students)
+ng serve
+http://localhost:4200/list
